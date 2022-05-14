@@ -1,0 +1,143 @@
+
+/* custom css classes */
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+/*buttom */
+.default-buton {
+    color: #7d7d7d;
+    padding: 20px 30px;
+    background: #fff;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    transition: .4s;
+}
+
+.default-buton:hover {
+    color: #000;
+    background: #FFE75F;
+}
+
+.default-buton:active {
+    color: #000;
+    background: #FFE75F;
+}
+
+.default-buton:focus {
+    
+    color: #fff;
+    background: #F9641F;
+    transform: translate(0px, -50px);
+
+}
+
+/* Price Section Css */
+.price {
+    padding: 50px;
+    background: #fff;
+}
+
+/* .price .section-title {} */
+
+.price .section-title h1 {
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.price .section-title p {
+    font-size: 24px;
+    font-weight: 300;
+    color: #767676;
+}
+
+.price .pricing-table {
+    margin-top: 80px;
+}
+
+.price .pricing-table .table-item {
+    margin-bottom: 5%;
+    background: #fff;
+}
+
+
+
+
+
+
+.price .pricing-table .table-item:nth-child(3) {
+    margin-right: 0;
+}
+
+
+
+.price .pricing-table .table-item .table-heading h4 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.price .pricing-table .table-item .table-heading h1 {
+    margin: 42px 0;
+    font-size: 56px;
+}
+
+.price .pricing-table .table-item .table-heading h1 span {
+    font-size: 20px;
+}
+
+.price .pricing-table .table-item .table-heading h5 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 22px;
+}
+
+.price .pricing-table .table-item .table-heading p {
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.price .pricing-table .table-content {
+    padding: 30px;
+}
+
+/* .price .pricing-table .table-content ul {} */
+
+.price .pricing-table .table-content ul li {
+    margin: 25px 0;
+    color: #767676;
+    font-size: 22px;
+
+}
+
+.price .pricing-table .table-content ul li span {
+    font-size: 35px;
+    color: #FFE75F;
+    display: inline-block;
+}
+
+.price-button {
+    margin-top: 60px;
+}
+
+.default-buton {
+    box-shadow: 3px 4px 30px 0 rgba(223, 179, 98, 0.3);
+}
+
