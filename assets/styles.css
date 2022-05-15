@@ -52,6 +52,25 @@ body {
     width: 20em;
 }
 
+.carousel-height{
+    height: 700px;
+}
+
+@media only screen and (max-width: 900px) {
+    .carousel-height{
+        height: 400px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 500px) {
+    .carousel-height{
+        height: 200px;
+    }
+    
+}
+
 
 footer {
 
