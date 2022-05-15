@@ -4502,7 +4502,7 @@ textarea.form-control-lg {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(255, 198, 11, 0.466);
   border-radius: 0.25rem;
 }
 .card > hr {
@@ -4553,8 +4553,8 @@ textarea.form-control-lg {
 .card-header {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
-  background-color: #FFE75F;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: #F9641F;
+  color: #fff;
 }
 
 
